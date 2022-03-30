@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining34.dll"</Assembly>
+		<AddInId>762E4FC7-4737-4CFE-9680-39F0C906F07E</AddInId>
+		<FullClassName>RevitAPITraining34.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Параметр трубы лаба 34</Text>
+	</AddIn>
+</RevitAddIns>
